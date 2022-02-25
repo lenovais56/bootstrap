@@ -1,0 +1,47 @@
+body {
+    font: 20px Arial, sans-serif;
+    color: #000000;
+}
+
+.navbar {
+    background: #E0E0E0;
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.quem-somos {
+    padding-bottom: 30px;
+    background: linear-gradient(#FFFFFF, #FFCC99);
+}
+
+.servicos {
+    background: linear-gradient(#b8cafd, #FFFFFF);
+}
+
+.servicos img, .parceiros img{
+    border-radius: 50px;
+    overflow: hidden;
+    transition: transform 0.5s ease 0s;
+}
+
+.servicos img:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);    
+}
+
+.parceiros {
+    background: linear-gradient(#b8cafd, #FFFFFF);
+}
+
+.parceiros img:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);  
+}
+
+.bg-footer {
+    background: #000000;
+    color: #FFFFFF;
+}
