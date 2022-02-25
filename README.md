@@ -1,2 +1,4 @@
 # bootstrap
-utilizando bootstrap
+Utilizando bootstrap.
+
+Em andamento...
